@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Thanks for your input. Adding a button that says \"Hello World\" right away.",
+        "message_id": "guest07082024195854",
+        "timestamp": "07082024195855",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",
