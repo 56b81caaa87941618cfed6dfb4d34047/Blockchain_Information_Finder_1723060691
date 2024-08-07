@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be fixed at the top of the screen or should it disappear as the user scrolls down?\", \"option1\": \"Fixed at the top\", \"option2\": \"Disappear on scroll\"}, {\"question 2\": \"For the navlinks 'Home', 'About', and 'Contact', do you have specific URLs you'd like these links to navigate to, or should they point to sections within the same page?\", \"option1\": \"Navigate to specific URLs\", \"option2\": \"Point to sections within the same page\"}], \"input_token_count\": 573, \"output_token_count\": 125, \"time_taken\": \"0:00:04.044326\"}",
+        "message_id": "guest07082024200231",
+        "timestamp": "07082024200237",
+        "component_file_name": "simple_cta_component_1723060692",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great suggestion! I'll add a navbar with those navlinks.",
         "message_id": "guest07082024200231",
