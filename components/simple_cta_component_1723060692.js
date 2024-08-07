@@ -3,13 +3,13 @@
 Vue.component("simple_cta_component_1723060692", {
     template: `
     <div>
-        <nav class="bg-gray-800 p-4">
+        <nav class="bg-purple-700 p-4 shadow-md">
             <div class="container mx-auto flex justify-between items-center">
                 <div class="text-white font-bold text-xl">Logo</div>
-                <div class="space-x-4">
-                    <a href="#" class="text-white hover:text-gray-300">Home</a>
-                    <a href="#" class="text-white hover:text-gray-300">About</a>
-                    <a href="#" class="text-white hover:text-gray-300">Contact</a>
+                <div class="space-x-6">
+                    <a href="#" class="text-white hover:text-gray-200 transition duration-300">Home</a>
+                    <a href="#" class="text-white hover:text-gray-200 transition duration-300">About</a>
+                    <a href="#" class="text-white hover:text-gray-200 transition duration-300">Contact</a>
                 </div>
             </div>
         </nav>
