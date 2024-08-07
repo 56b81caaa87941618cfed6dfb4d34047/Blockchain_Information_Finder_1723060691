@@ -17,7 +17,7 @@ Vue.component("simple_footer_component_1723060692", {
                     <div id="footer-text" class="flex-1 block text-sm text-center text-gray-500 dark:text-gray-400">
                         © 2023 BlockScan. Empowering users with real-time blockchain insights. Explore, discover, and stay informed.
                         © 2023 BlockScan. Empowering users with real-time blockchain insights. Explore, discover, and stay informed.
-                        <button class="mt-4 px-4 py-2 bg-blue-500 text-white rounded-lg shadow-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50">
+                        <button class="mt-4 px-6 py-2 bg-purple-600 text-white rounded-lg shadow-md hover:bg-purple-700 focus:outline-none focus:ring-2 focus:ring-purple-500 focus:ring-opacity-50 transition duration-300 ease-in-out">
                             Submit
                         </button>
                 </div>
