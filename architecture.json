@@ -54,5 +54,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nThe user requested the addition of a \"Submit\" button to their project. The AI acknowledged the request and stated it was working on it. The user specified that the button should either be positioned at the bottom-center of the screen or at the top-right corner and should either send form data to a server with a confirmation message or open a new page with blockchain information submission guidelines. Additionally, the AI provided a checklist of possible features for the project, including a search functionality for blockchain news, real-time notifications for breaking news, a 'Favorite' button for saving articles, a user profile section, a dark/light mode toggle, and a feedback button. The user had already selected certain features from this list.\n\nFollowing this, the user asked for another button that says \"Hello World.\" The AI responded affirmatively, stating it would add this button and inquired for more details about the project. The user was presented with options regarding the button's positioning\u2014in the main menu or as a floating action button at the bottom of the screen\u2014and asked whether it should display a pop-up message or navigate the user to another screen with information.\nAI: Definitely, adding a navbar with navlinks home, about, and contact.\nUser: add a navbar with navlinks home, about and contact\nUser: add a sidebar with navlinks Home, About and Contact\nUser: add a navbar with navlinks home, about and contact\nThis is the user's current request of changes to be made: add a sidebar with navlinks home, about and contact"
+    },
+    {
+        "level": 1,
+        "task_description": "add a button that says hello world"
     }
 ]
