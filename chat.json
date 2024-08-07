@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a sidebar with navlinks Home, About and Contact",
+        "message_id": "guest07082024200035",
+        "timestamp": "07082024200035",
+        "component_file_name": "simple_footer_component_1723060692",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you like the navbar to be sticky (fixed at the top as users scroll) or static?\", \"option1\": \"Sticky\", \"option2\": \"Static\"}, {\"question 2\": \"Do you have specific color and style preferences for the navbar and navlinks?\", \"option1\": \"Yes, I will provide the color codes and styles\", \"option2\": \"No, please use standard design practices\"}], \"input_token_count\": 265, \"output_token_count\": 99, \"time_taken\": \"0:00:03.657468\"}",
         "message_id": "guest07082024200000",
