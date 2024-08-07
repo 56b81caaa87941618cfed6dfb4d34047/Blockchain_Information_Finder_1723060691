@@ -7,12 +7,12 @@ Vue.component("simple_footer_component_1723060692", {
             <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
                 <a href="#" class="flex items-center">
                     <img src="./images/logo.svg" class="h-8 mr-3" alt="BlockScan Logo" />
-                    <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">BlockScan</span>
+                    <span class="self-center text-2xl font-semibold whitespace-nowrap text-gray-800 dark:text-white">BlockScan</span>
                 </a>
                 <div class="flex space-x-4">
-                    <a href="#" class="text-gray-700 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-gray-700">Home</a>
-                    <a href="#" class="text-gray-700 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-gray-700">About</a>
-                    <a href="#" class="text-gray-700 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-gray-700">Contact</a>
+                    <a href="#" class="text-gray-700 hover:text-purple-600 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-gray-700">Home</a>
+                    <a href="#" class="text-gray-700 hover:text-purple-600 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-gray-700">About</a>
+                    <a href="#" class="text-gray-700 hover:text-purple-600 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-gray-700">Contact</a>
                 </div>
             </div>
         </nav>
