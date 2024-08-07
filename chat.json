@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Do you prefer a permanent sidebar, or should it be collapsible depending on the user's interaction?\", \"option1\": \"Permanent sidebar\", \"option2\": \"Collapsible sidebar\"}, {\"question 2\": \"Should the sidebar navigation links have icons next to the text labels?\", \"option1\": \"Yes, add icons next to the labels\", \"option2\": \"No, just the text labels\"}], \"input_token_count\": 265, \"output_token_count\": 96, \"time_taken\": \"0:00:03.181863\"}",
+        "message_id": "guest07082024200035",
+        "timestamp": "07082024200039",
+        "component_file_name": "simple_footer_component_1723060692",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a sidebar with navlinks Home, About and Contact",
         "message_id": "guest07082024200035",
