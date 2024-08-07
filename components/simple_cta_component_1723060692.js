@@ -2,17 +2,17 @@
 */
 Vue.component("simple_cta_component_1723060692", {
     template: `
-    <div>
-        <nav class="bg-purple-700 p-4 shadow-md">
-            <div class="container mx-auto flex justify-between items-center">
-                <div class="text-white font-bold text-xl">Logo</div>
-                <div class="space-x-6">
-                    <a href="#" class="text-white hover:text-gray-200 transition duration-300">Home</a>
-                    <a href="#" class="text-white hover:text-gray-200 transition duration-300">About</a>
-                    <a href="#" class="text-white hover:text-gray-200 transition duration-300">Contact</a>
-                </div>
-            </div>
-        </nav>
+    <div class="flex">
+        <aside class="w-64 h-screen bg-purple-700 text-white p-4">
+            <nav>
+                <ul class="space-y-4">
+                    <li><a href="#" class="block hover:bg-purple-600 p-2 rounded transition duration-300">Home</a></li>
+                    <li><a href="#" class="block hover:bg-purple-600 p-2 rounded transition duration-300">About</a></li>
+                    <li><a href="#" class="block hover:bg-purple-600 p-2 rounded transition duration-300">Contact</a></li>
+                </ul>
+            </nav>
+        </aside>
+        <div class="flex-1">
         <section id="cta-component" class="bg-gray-50 dark:bg-gray-800 flex-1">
             <div id="cta-inner-container" class="max-w-screen-xl px-4 py-8 mx-auto lg:py-16 lg:px-6">
                 <div id="cta-content" class="max-w-screen-sm mx-auto text-center">
@@ -30,6 +30,7 @@ Vue.component("simple_cta_component_1723060692", {
                 </div>
             </div>
         </section>
+        </div>
     </div>
         `,
     data() {
