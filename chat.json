@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "add a button that says hello world",
+        "message_id": "guest07082024200720",
+        "timestamp": "07082024200720",
+        "component_file_name": "simple_cta_component_1723060692",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Great idea! Adding sidebar with home, about and contact navlinks.",
         "message_id": "guest07082024200518",
