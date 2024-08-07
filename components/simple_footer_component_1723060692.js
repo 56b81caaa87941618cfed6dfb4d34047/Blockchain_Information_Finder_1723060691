@@ -3,15 +3,15 @@
 Vue.component("simple_footer_component_1723060692", {
     template: `
     <div class="flex">
-        <div class="w-64 bg-gray-100 dark:bg-gray-900 h-screen">
+        <div class="w-64 bg-white dark:bg-gray-800 h-screen shadow-lg">
             <nav class="mt-5">
-                <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-gray-200 dark:text-white dark:hover:bg-gray-700">
+                <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-purple-100 dark:text-white dark:hover:bg-purple-700 transition duration-300">
                     <i class='bx bx-home mr-2'></i>Home
                 </a>
-                <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-gray-200 dark:text-white dark:hover:bg-gray-700">
+                <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-purple-100 dark:text-white dark:hover:bg-purple-700 transition duration-300">
                     <i class='bx bx-info-circle mr-2'></i>About
                 </a>
-                <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-gray-200 dark:text-white dark:hover:bg-gray-700">
+                <a href="#" class="block py-2 px-4 text-gray-700 hover:bg-purple-100 dark:text-white dark:hover:bg-purple-700 transition duration-300">
                     <i class='bx bx-envelope mr-2'></i>Contact
                 </a>
             </nav>
@@ -24,9 +24,9 @@ Vue.component("simple_footer_component_1723060692", {
                         <span class="self-center text-2xl font-semibold whitespace-nowrap text-gray-800 dark:text-white">BlockScan</span>
                     </a>
                     <div class="flex space-x-4">
-                        <a href="#" class="text-gray-700 hover:text-purple-600 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-gray-700">Home</a>
-                        <a href="#" class="text-gray-700 hover:text-purple-600 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-gray-700">About</a>
-                        <a href="#" class="text-gray-700 hover:text-purple-600 hover:bg-gray-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-gray-700">Contact</a>
+                        <a href="#" class="text-gray-700 hover:text-purple-600 hover:bg-purple-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-purple-700 transition duration-300">Home</a>
+                        <a href="#" class="text-gray-700 hover:text-purple-600 hover:bg-purple-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-purple-700 transition duration-300">About</a>
+                        <a href="#" class="text-gray-700 hover:text-purple-600 hover:bg-purple-100 px-3 py-2 rounded-md text-sm font-medium dark:text-white dark:hover:bg-purple-700 transition duration-300">Contact</a>
                     </div>
                 </div>
             </nav>
